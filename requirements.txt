@@ -4,6 +4,4 @@ scipy>=1.7.0
 scikit-learn>=1.0.0
 matplotlib>=3.5.0
 mne>=1.0.0
-gunicorn
-fastapi
-uvicorn
+gunicorn>=21.0.0
