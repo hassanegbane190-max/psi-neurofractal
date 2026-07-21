@@ -4,3 +4,6 @@ numpy>=1.20.0
 scipy>=1.7.0
 gunicorn>=21.0.0
 werkzeug>=2.3.0
+gunicorn 
+fastapi
+uvicorn
